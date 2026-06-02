@@ -1,0 +1,13 @@
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+.vs/
+.vscode/
+*.sln
+*.openproj
+
+Content/*
+!Content/.gitkeep
